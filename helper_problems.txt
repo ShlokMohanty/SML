@@ -1,0 +1,6 @@
+https://www.kaggle.com/code/kimtaehun/simple-preprocessing-for-time-series-prediction
+https://www.kaggle.com/code/aranyajana01/heart-disease-prediction-using-logistic-regression
+https://www.kaggle.com/code/ayeshaqamar6/heart-disease-prediction
+https://www.kaggle.com/code/ayshaahsan/kidney-disease-94-accuracy-with-gradientboostingc
+https://www.kaggle.com/code/scarletmclearn/skin-disease-binary-classification-99-accuracy
+
